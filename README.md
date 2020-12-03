@@ -12,5 +12,5 @@ Finding the Square Root of a perfect square is quite easy! But have you ever tri
 ## TowersOfHanoi.py
 As the name suggests, this is just an implementation of the Towers Of Hanoi using Recursion in Python3
 
-## Patters.py
+## Patterns.py
 This script contains certain patterns (to practice looping) in Python!
